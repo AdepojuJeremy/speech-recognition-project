@@ -1,0 +1,5 @@
+_pycache_/
+*.pyc
+*.wav
+models/*.h5
+venv/
