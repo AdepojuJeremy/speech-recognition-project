@@ -55,7 +55,7 @@ optree==0.14.0
 packaging==24.2
 platformdirs==4.3.6
 pooch==1.8.2
-protobuf==5.29.3
+protobuf==5.29.6
 pycparser==2.22
 Pygments==2.19.1
 regex==2024.11.6
